@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n0lsecurity
+- 👋 Hi, I’m @n0lsec and right now with @NOLSecurity in Github
 - 👀 I’m interested in infosec and sepcialy Web Application Security
 - 🌱 I’m currently learning everything related to my carrier
 - 💞️ I’m looking to collaborate on InfoSec projects, Bug bounty programs
